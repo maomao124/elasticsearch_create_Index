@@ -1,0 +1,10 @@
+2022-05-27 11:40:01.465  INFO 20676 --- [main] m.e.ElasticsearchCreateIndexApplication  : Starting ElasticsearchCreateIndexApplication v0.0.1-SNAPSHOT using Java 16.0.2 on mao with PID 20676 (H:\程序\大三下期\elasticsearch创建索引\target\elasticsearch_create_Index-0.0.1-SNAPSHOT.jar started by mao in H:\程序\大三下期\elasticsearch创建索引\target)
+2022-05-27 11:40:01.468 DEBUG 20676 --- [main] m.e.ElasticsearchCreateIndexApplication  : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-27 11:40:01.469  INFO 20676 --- [main] m.e.ElasticsearchCreateIndexApplication  : The following 1 profile is active: "dev"
+2022-05-27 11:40:02.579  INFO 20676 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-05-27 11:40:02.591  INFO 20676 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-27 11:40:02.592  INFO 20676 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-05-27 11:40:02.690  INFO 20676 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-27 11:40:02.690  INFO 20676 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1158 ms
+2022-05-27 11:40:03.557  INFO 20676 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-27 11:40:03.574  INFO 20676 --- [main] m.e.ElasticsearchCreateIndexApplication  : Started ElasticsearchCreateIndexApplication in 2.702 seconds (JVM running for 3.189)
